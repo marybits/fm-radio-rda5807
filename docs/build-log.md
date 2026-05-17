@@ -16,7 +16,7 @@ A detailed diary of the complete assembly and debugging process.
 
 Before touching the kit, the full soldering station was assembled and verified.
 
-📸 `photos/01_station_setup.jpg`
+![Station setup](photos/01_station_setup.jpg)
 
 **Station components laid out:**
 - Pine64 Pinecil V2 (USB-C PD, IronOS firmware)
@@ -36,7 +36,7 @@ Before touching the kit, the full soldering station was assembled and verified.
 
 All components were laid out on the silicone mat and verified against the BOM before soldering.
 
-📸 `photos/02_components_inventory.jpg`
+![Components inventory](photos/02_components_inventory.jpg)
 
 **Components identified:**
 - 4× electrolytic capacitors (100μF) — C4, C5, C7, C8
@@ -66,9 +66,11 @@ All components were laid out on the silicone mat and verified against the BOM be
 
 The PCB was mounted in the Stanz helping hands and assembly began following the manufacturer's graphical instructions.
 
-📸 `photos/03_pcb_in_helping_hands.jpg`  
-📸 `photos/04_pcb_resistors_soldered.jpg`  
-📸 `photos/05_pcb_mid_assembly_front.jpg`  
+![PCB in helping hands](photos/03_pcb_in_helping_hands.jpg)
+
+![PCB resistors soldered](photos/04_pcb_resistors_soldered.jpg)
+
+![PCB mid assembly front](photos/05_pcb_mid_assembly_front.jpg)
 
 **Soldering order followed:**
 1. Resistors (lowest profile first)
@@ -88,8 +90,9 @@ The PCB was mounted in the Stanz helping hands and assembly began following the 
 
 ### Stage 4 — PCB Inspection (front and back)
 
-📸 `photos/06_pcb_complete_front.jpg`  
-📸 `photos/07_pcb_complete_back.jpg`
+![PCB complete front](photos/06_pcb_complete_front.jpg)
+
+![PCB complete back](photos/07_pcb_complete_back.jpg)
 
 Back of the board inspected under the Stanz 2.5X magnifier. All joints appear shiny and well-formed. No obvious solder bridges detected under magnification.
 
@@ -97,7 +100,7 @@ Back of the board inspected under the Stanz 2.5X magnifier. All joints appear sh
 
 ### Stage 5 — ICs and Final Components
 
-📸 `photos/08_pcb_with_ics.jpg`
+![PCB with ICs](photos/08_pcb_with_ics.jpg)
 
 - TDA2822 inserted into 8-pin DIP socket (notch aligned per schematic)
 - STC8G1K17 inserted into 16-pin DIP socket
@@ -108,7 +111,7 @@ Back of the board inspected under the Stanz 2.5X magnifier. All joints appear sh
 
 ### Stage 6 — First Power-On ✅
 
-📸 `photos/10_first_power_on.jpg`  
+![First power on](photos/10_first_power_on.jpg)
 
 **USB connected → immediate results:**
 - ✅ Red LED (D1) lit up
@@ -121,9 +124,11 @@ Back of the board inspected under the Stanz 2.5X magnifier. All joints appear sh
 
 ### Stage 7 — Case Assembly
 
-📸 `photos/09_case_back_with_speaker.jpg`  
-📸 `photos/11_final_assembled_front.jpg`  
-📸 `photos/12_final_assembled_back.jpg`
+![Case back with speaker](photos/09_case_back_with_speaker.jpg)
+
+![Final assembled front](photos/11_final_assembled_front.jpg)
+
+![Final assembled back](photos/12_final_assembled_back.jpg)
 
 PCB mounted into transparent acrylic case. Speaker secured with self-tapping screws. Antenna extended through top slot. M2 screws used to close the case.
 
