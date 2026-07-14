@@ -133,7 +133,7 @@ rda5807-fm-radio-kit/
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - **Through-hole soldering fundamentals** — component orientation, heat transfer, solder flow
 - **Reading datasheets** — extracting register maps, electrical characteristics, timing diagrams
@@ -143,7 +143,7 @@ rda5807-fm-radio-kit/
 
 ---
 
-## 👤 Author
+## Author
 
 **Mary Araujo**  
 Computer Engineering Student — University of Ottawa (2nd year)  
