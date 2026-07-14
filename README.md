@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 This project covers the complete lifecycle of building an FM radio from a PCB kit:
 
@@ -22,7 +22,7 @@ This project covers the complete lifecycle of building an FM radio from a PCB ki
 
 ---
 
-## 🛠️ Soldering Station Setup
+## Soldering Station Setup
 
 ### Iron & Power
 | Tool | Model | Notes |
@@ -55,7 +55,7 @@ This project covers the complete lifecycle of building an FM radio from a PCB ki
 
 ---
 
-## 📦 Key Components
+## Key Components
 
 | Component | Ref | Role |
 |-----------|-----|------|
@@ -72,7 +72,7 @@ This project covers the complete lifecycle of building an FM radio from a PCB ki
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```text
 Antenna
@@ -88,7 +88,7 @@ Speaker / Audio Jack
 
 ---
 
-## 🔬 Chip Deep Dive — RDA5807MP
+## Chip Deep Dive — RDA5807MP
 
 The **RDA5807MP** is a fully integrated single-chip FM stereo radio tuner IC.
 
@@ -114,18 +114,9 @@ The **RDA5807MP** is a fully integrated single-chip FM stereo radio tuner IC.
 
 ---
 
-## 📸 Build Log
+## Build Log
 
 Full step-by-step build documentation with photos available in [`docs/build-log.md`](docs/build-log.md).
-
----
-
-## 🚀 Future Improvements
-
-- Interface the RDA5807MP directly from an Arduino via I2C for software-controlled tuning
-- Implement digital station presets via serial monitor
-- Add OLED display for richer frequency and signal strength visualization
-- Design a custom PCB revision with improved component layout
 
 ---
 
